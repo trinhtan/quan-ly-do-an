@@ -1,0 +1,12 @@
+.container-slide{
+	width: 545px;
+	height: 400px;
+}
+.container{
+	background-color: #dedede;
+}
+.box1{
+	text-align: center;
+	font-size: 18px;
+	padding-top: 30px;
+}
